@@ -2,7 +2,7 @@
 
 ## I. The Age of Primordials
 
-The history of the fourth planet began in a crucible of elemental fury, as the world formed through violent cycles of heating and freezing before finally becoming habitable. The Trolls and Dragons were the first sentient beings to walk the earth. During this dawn of habitation, the Dragons discovered the Kobolds and forced them into a long era of enslavement. This period of draconic dominance eventually sparked the Industrial War; the Trolls began burning wood on a massive scale for industry, prompting the Dragons to attack. The Dragons technically won, but the cost was devastating. The Trolls utilized "scorched earth" tactics, burning everything as they retreated, leaving the Dragons to rule over a blackened, starving world.
+The history of the fourth planet began in a crucible of elemental fury, as the world formed through violent cycles of heating and freezing before finally becoming habitable. The Trolls and Dragons were the first sentient beings to walk the earth. During this dawn of habitation, the Dragons discovered the there sub race Kobolds and forced them into a long era of enslavement. This period of draconic dominance eventually sparked the Industrial War; the Trolls began burning wood on a massive scale for industry, prompting the Dragons to attack. The Dragons technically won, but the cost was devastating. The Trolls utilized "scorched earth" tactics, burning everything as they retreated, leaving the Dragons to rule over a blackened, starving world.
 
 ## II. The Age of Arcana & Partition
 
@@ -11,9 +11,10 @@ The arrival of the Elves marked the end of primordial chaos. Using powerful Prim
 ## III. The Age of Forges & Iron
 
 As Elven power began to wane, the Dwarves arrived, settling the central mountain ranges and the southeastern volcanoes. This expansion led to the Elven Conflict, where the Elves—enraged by the environmental devastation caused by Dwarven forges—forcibly evicted the newcomers from the heartlands. However, the war drained the Elves’ strength, allowing the Trolls to break their ancient bonds. The Trolls reclaimed the central lands and forced the Elves into a humiliating retreat. During this time, the Dwarves befriended the Kobolds; when the Dragons attempted to reclaim their former slaves, a united Dwarven-Kobold alliance defeated them, driving the Dragons deep into the mountain roots.
-IV. The Age of the Undead
 
-The rise of the Trolls eventually led to the Troll-Orc Wars. The Orcs and their Druids formed a "Green Alliance" with the Elves, but they struggled to break the Troll lines. In a desperate move, Elven Necromancers unleashed the Forbidden Victory, raising an army of the dead to annihilate the Trolls. While the war was won, the world was horrified by the results; Necromancy was strictly banned as an uncontrollable magic. This led to a Long Peace, a golden era where Goblins, Hobgoblins, Bugbears, Gnomes, and Merfolk emerged to build their own cultures while the Dragons turned their focus toward peaceful experimentation.
+## IV. The Age of the Undead
+
+The rise of the Trolls eventually led to the Troll-Orc Wars. The Orcs and their Druids formed a "Green Alliance" with the Elves, but they struggled to break the Troll lines. In a desperate move, Elven Necromancers unleashed the Forbidden Victory, raising an army of the dead to annihilate the Trolls. While the war was won, the world was horrified by the results; Necromancy was strictly banned as an uncontrollable magic. This led to a Long Peace, a golden era where Goblins, Hobgoblins, Bugbears, Gnomes,  Merfolk and more races emerged to build their own cultures while the Dragons turned their focus toward peaceful experimentation.
 
 ## V. The Era of the Sky-Empire
 
@@ -29,4 +30,4 @@ The Goblins, Hobgoblins, and Bugbears eventually united to form the Tri-Kin Hege
 
 ## VIII. The Modern Revolution
 
-The Hegemony lasted for ten years before transitioning into a democracy, but it truly collapsed five years later when Sylvaris the Bound committed suicide to ascend to godhood. His death neutralized the magic protecting the flying ships, causing the fleet to fall. A new coalition, the Southern Alliance, rose to fill the void, utilizing Dwarven firearms and Elven magic to destabilize the old regime. The Dragons joined the final fight, leading to the Treaty of the Five Families to ensure world balance. In this period, Humans arrived; being highly adaptable and capable of mining where Elves could not, they quickly expanded across all environments, leading to the formation of the modern kingdoms seen today.
+The Hegemony lasted for twenty years before transitioning into a democracy, but it truly collapsed five years later when Sylvaris the Bound committed suicide to ascend to godhood. His death neutralized the magic protecting the flying ships, causing the fleet to fall. A new coalition, the Southern Alliance, rose to fill the void, utilizing Dwarven firearms and Elven magic to destabilize the old regime. The Dragons joined the final fight, leading to the Treaty of the Five Families to ensure world balance. In this period, Humans arrived; being highly adaptable and capable of mining where Elves could not, they quickly expanded across all environments, leading to the formation of the modern kingdoms seen today.
