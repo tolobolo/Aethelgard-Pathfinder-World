@@ -25,7 +25,6 @@ This treaty legalized necromancy under strict regulations. The Ministry is permi
 Originally, bounty hunting was a tool used by revolutionaries to dismantle the Tri-Kin Hegemony by picking off its leaders. However, after the empire fell, the hunters became too powerful and disorganized, threatening the stability of the new nations. To bring them to heel, the empires established The Sovereign Purveyors (PS).
 
 What began as a government oversight agency has evolved into a global monopoly. Today, the PS is a massive organization that controls the legal right to hunt. To work as a bounty hunter, you must pay for a membership and follow their strict protocols. They take a percentage of every contract and have the power to "blackball" any hunter, effectively making them a criminal in the eyes of all four empires. Only a few individuals—those with immense reputations like Scrub "Click"—have ever been strong enough to operate outside the PS without being hunted down themselves. The PS functions almost like a fifth kingdom, with its own internal laws and a reach that extends into every dark corner of the continent.
-T
 
 ## The Dwarven Clan Network
 
@@ -42,3 +41,26 @@ The Dwarven people are not a single nation but a collection of powerful clans th
 
   ### Stonehammer: 
     This clan is more reclusive, focusing on deep-earth masonry and the structural integrity of the mountain ranges, often serving as the primary architects for the world’s greatest fortifications.
+---
+## KIF and GIFA
+after years of slavery the Kobolds and goblins have made there organs to stop it ones and for all.
+
+## The Kobold Independence Front (KIF)
+
+The KIF is a sophisticated political machine composed of former "mine-serfs" who have mastered the art of the Bureaucratic Strike. They realize that their former masters rely on kobold expertise in trap-smithing, architectural stability, and Eberron shard extraction.
+
+    Modus Operandi: Strategic Pacifism. The KIF organizes mass walkouts and "Legal Blockades." They use the laws of the land against their oppressors, filing thousands of sovereign citizenship claims simultaneously to clog the courts.
+
+    The Goal: A recognized merchant-state. They want to transition from "slaves" to "contractors," charging high premiums for the labor they once gave for free.
+
+    Leader: Arch-Logician Vyth, a kobold who spent forty years translating draconic law to find the loopholes that justify their freedom.
+
+## The Goblin Independence Fighting Army (GIFA)
+
+While the KIF works the courts, the GIFA works the shadows. Composed of veteran tunnel-fighters and former "expendable" infantry, they represent the militant arm of the disenfranchised. They view the KIF’s paperwork as a distraction, though a useful one.
+
+    Modus Operandi: Asymmetric Warfare. The GIFA specializes in "Structural Deconstruction"—sabotaging the very infrastructure they were once forced to build. They use alchemical explosives and hit-and-run tactics to make the cost of "owning" goblins higher than the cost of setting them free.
+
+    The Goal: The "Iron Domain," a fortress-city where no non-goblinoid may enter without a permit.
+
+    Leader: General Rakks, a scarred hobgoblin tactician who famously mailed his broken shackles to the King of the neighboring realm.
