@@ -1,6 +1,6 @@
 # Trading
 
-Trading in Kyros normally happens via flyship, but because of their dependence on favorable weather, traditional ships are still used for their flexibility. On land, trade generally moves by train, guarded by bounty hunters under PS (Sovereign Purveyors). These bounty hunters are cost-effective and highly efficient against the bandits who challenge this mode of transportation. For short-distance travel, horse-drawn carriages remain the standard, though they are slowly being replaced by cars.
+Trading in Aethelgard normally happens via flyship, but because of their dependence on favorable weather, traditional ships are still used for their flexibility. On land, trade generally moves by train, guarded by bounty hunters under PS (Sovereign Purveyors). These bounty hunters are cost-effective and highly efficient against the bandits who challenge this mode of transportation. For short-distance travel, horse-drawn carriages remain the standard, though they are slowly being replaced by cars.
 
 ## The Paso de Lath Conflict
 

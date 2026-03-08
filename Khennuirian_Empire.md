@@ -10,17 +10,17 @@ In the lush, forested highlands of the Northeast, the Xeolia Empire surrounds th
 
 ## The Levalon Dynasty
 
-The Levalon Dynasty controls the dense forests and green heartlands of the continent's center, including the strategically vital Torre de Lath and the central mountain pass. As a neutral democracy, the Dynasty prioritizes peace and maintains the lowest military spending of the four powers, relying instead on ancient fortifications left behind by the old Goblin kingdoms. It serves as the world’s primary manufacturer for the Assembly of High Thrones (AHT) and the Southern Alliance. While the nation is a melting pot of humans and other races, a rising right-wing elven political party has begun to gain traction, advocating for the removal of non-elves and the restoration of what they believe to be the rightful elven hegemony over the central forests.
+The Levalon Dynasty controls the dense forests and green heartlands of the continent's center, including the strategically vital Torre de Lath, with Xeolia and the central mountain pass. As a neutral democracy, the Dynasty prioritizes peace and maintains the lowest military spending of the four powers, relying instead on ancient fortifications left behind by the old Goblin kingdoms. It serves as the world’s primary manufacturer for the Assembly of High Thrones (AHT) and the Southern Alliance. While the nation is a melting pot of humans and other races, a rising right-wing elven political party has begun to gain traction, advocating for the removal of non-elves and the restoration of what they believe to be the rightful elven hegemony over the central forests.
 
+Levalon infrastructur varys from elven tree houses to moderniste tri-kin citys. populason has a masjority of elvs but in later years have humons closen the gap this enrages the elven right wing partys and have split into a more agressiv close to terrorist organisajon. This
 
 ## The Zozzalyra Kingdom
 
 Located in the arid, pyramid-studded deserts of the Southeast, the Zozzalyra Kingdom sits in the dangerous shadow of Volcan Dhur. It is a left-wing democracy, though the government is frequently dogged by suspicions of election cheating and corruption. Following a catastrophic volcanic eruption, the kingdom’s original mountain settlements were abandoned to fire dwarves and elementals, forcing the populace into the desert lowlands. Their military strategy is one of attrition, often characterized by throwing one army after another at a problem until it is resolved. Because of their proximity to the volcano, the kingdom’s survival is entirely dependent on complex trade agreements and the elemental wards maintained by the dwarves who still inhabit the volcanic peaks.
 
----
+Since the majority of the Dwarven clans call Zozzalyra home, the nation enjoys a prosperous alliance with them. Following the eruptions of Mount Dhor, which left much of the territory a wasteland, there has been a significant rise in the bounty hunting trade. These hunters are commissioned to reclaim lost resources from the ash-covered wilds. However, with the terrain now resembling a barren desert, the government faces a dual crisis: collapsing trade infrastructure and a rise in organized desert raiders.---
 
 ## Millitary Ranking
-
 
 To understand the weight of these organizations, the world's military power is currently ranked as follows:
 
@@ -29,6 +29,8 @@ To understand the weight of these organizations, the world's military power is c
     The Southern Alliance (The combined might of Khennuirian tech and Levalon defense)
 
     Khennuirian Empire (Individually powerful, focuses on high-tech and legionnaires)
+    
+    The Zozzalyra Kingdom (lot of dwarven tech)
 
     Levalon Dynasty (Focuses on ancient defensive structures and AHT peacekeeping)
 
