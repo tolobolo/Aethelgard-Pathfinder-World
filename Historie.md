@@ -2,7 +2,7 @@
 
 ## I. The Age of Primordials
 
-The history of the fourth planet began in a crucible of elemental fury, as the world formed through violent cycles of heating and freezing before finally becoming habitable. The Trolls and Dragons were the first sentient beings to walk the earth. During this dawn of habitation, the Dragons discovered the there sub race Kobolds and forced them into a long era of enslavement. This period of draconic dominance eventually sparked the Industrial War; the Trolls began burning wood on a massive scale for industry, prompting the Dragons to attack. The Dragons technically won, but the cost was devastating. The Trolls utilized "scorched earth" tactics, burning everything as they retreated, leaving the Dragons to rule over a blackened, starving world.
+The history of the Aethelgard began in a crucible of elemental fury, as the world formed through violent cycles of heating and freezing before finally becoming habitable. The Trolls and Dragons were the first sentient beings to walk the earth. During this dawn of habitation, the Dragons discovered the there sub race Kobolds and forced them into a long era of enslavement. This period of draconic dominance eventually sparked the Industrial War; the Trolls began burning wood on a massive scale for industry, prompting the Dragons to attack. The Dragons technically won, but the cost was devastating. The Trolls utilized "scorched earth" tactics, burning everything as they retreated, leaving the Dragons to rule over a blackened, starving world.
 
 ## II. The Age of Arcana & Partition
 
