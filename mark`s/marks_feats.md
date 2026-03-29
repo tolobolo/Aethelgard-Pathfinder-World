@@ -8,7 +8,7 @@ you gain the sheild cantrip or get trained in medium armer
 you gain the ignition cantrip or  1 action You light your weapon or unarmed attacks with your innate fire. For the next  minute, you gain a circumstance bonus to damage equal to the number of damage dice on any Strikes you make?
 
 ## Water Rune
-you gain unholy water cantrip so 20 feet 1d6 + 1 splash ? or Let you breath under water ?
+you gain unholy water cantrip so 20 feet 1d6 + 1 splash or Let you breath under water ?
 
 5. you get 20 feet swimming speed or you get the Aqueous blast 1 level spell ones per day
 
@@ -16,7 +16,7 @@ you gain unholy water cantrip so 20 feet 1d6 + 1 splash ? or Let you breath unde
 you gain +5 feet speed or Electric arc cantrip
 
 ## Stone Rune
-you make difficult terrain 10 feet around you ones per day or exstra health ?
+you make difficult terrain 10 feet around you ones per day or exstra +2 health ?
 
 1. You add the following spells to your spell list and can select them as any other spell on your spell list, if you have one.
 
