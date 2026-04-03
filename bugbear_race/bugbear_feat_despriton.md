@@ -2,19 +2,19 @@
 
 ## heritage
 
-Tracking bugbear 
-Your ancestors were famous trackers, and you carry in your blood that same gift of the hunt. You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains hidden. In addition, you gain a +2 circumstance bonus to Survival checks to Track creatures that you have previously sensed with your scent. 
+### Tracking bugbear 
+mour ancestors were famous trackers, and you carry in your blood that same gift of the hunt. You gain a special sense: imprecise scent with a range of 30 feet. This means you can use your sense of smell to determine the location of a creature, but it remains hidden. In addition, you gain a +2 circumstance bonus to Survival checks to Track creatures that you have previously sensed with your scent. 
 
-Snowy bugbear
+### Snowy bugbear
 You are acclimated to living in frigid lands and have skin ranging from sky blue to navy in color, as well as blue fur. You gain cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
 
-Swift bugbear
+### Swift bugbear
 after you all your life you have become faster. you get a +5 to speed
 
-Wilderness bugbear 
+### Wilderness bugbear 
 you get a primary cantrip of your choose.
 
-Bugbear wrestler
+### Bugbear wrestler
 after brawling with your fellow bugbear you get a +1 circumstas bonus to atletics to grapple.
 
 ## Ancesery feats

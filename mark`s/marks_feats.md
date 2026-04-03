@@ -32,9 +32,10 @@ you get a primal spell of your chosse or unamed bit 1d8 or fist attack 1d6 grapp
 ## Mark of Assembling
 you get trained in crafting and specialty crafting ? or  
 
-1. you get a familliar ? or 
+1. you get a Mecanical familliar  
 
 5. get the cantrip mending or 
+
 
 ## Seal of darkness
 You gain low-light vision, or darkvision if your ancestry already has low-light vision or 

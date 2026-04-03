@@ -9,7 +9,7 @@ When he finally emerged, the world he knew was gone. He found a small, chaotic w
 ## Zelmet Iron-Whisper
 Hailing from the Zozzalyra Empire, the gnome inventor Zelmet Iron-Whisper began his career fascinated by the ancient history of bound elementals. After studying as a professional inventor, he spent years working in an airship factory before branching out to pitch his own private Warforged company. Though his homeland of Zozzalyra ultimately rejected his ambitious proposal, the Khennurian Empire stepped in with a massive funding offer, provided he relocate and build a mechanical army to eradicate the world's remaining demons.
 
-Zelmet accepted the deal and successfully engineered the twenty legendary automaton battalions that ended the Age of Terror. Following the war, he transitioned into the automotive industry, though his car designs have yet to see a major commercial breakthrough. Today, he remains in the Khennurian Empire, where he oversees his private company and lives a quiet, successful life with his family.
+Zelmet accepted the deal and successfully engineered the twenty legendary automaton battalions that ended the Age of Empires and demons. Following the war, he transitioned into the automotive industry, though his car designs have yet to see a major commercial breakthrough. Today, he remains in the Khennurian Empire, where he oversees his private company and lives a quiet, successful life with his family.
 
 ## Scrub "Click"
 
