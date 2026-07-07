@@ -1,0 +1,47 @@
+# Education
+
+- AHT plan
+  - 12: 6 primery, 
+  - Historie
+  - language
+  - techonologi ?
+  - common
+  - common magic
+  - paths:
+    - wariurst
+    - oppsonal is this like millitey in normal life
+    - general self denfence to all
+    - a class to now the rest of fighting stills
+      - no magic
+        - rouge
+        - babarian
+        - fighter
+        - alchemist
+        - commander
+        - Guardian
+        - investigator
+        - Swashbuckler
+        - Thaumaturge
+        - Gunslinger
+        - Inventor
+      - little magic
+        - ranger
+        - monk
+        - Champion
+        - magus
+      - magic
+        - wizard
+        - sorcercer
+        - druid
+        - animist
+        - bard
+        - cleric
+        - Kineticst
+        - summoner
+        - Oracle
+        - Psychic
+        - witch
+        - Exemplar
+    - normal jobb
+      - everyone have is recommended to take one of this
+      - every normal job that you pick
